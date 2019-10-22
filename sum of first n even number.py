@@ -1,4 +1,4 @@
-# Python3 implementation to find sum of 
+# Python implementation to find sum of 
 # first n even numbers 
 	
 # function to find sum of 
